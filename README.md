@@ -2,7 +2,7 @@
 Genuine Gold Service from offline gold service providers.
 "Unleash Your Potential: Explore Skills, Ignite Success".
 
-Project Details:
+Project Details: 
 Project Demo URL: 
 Static Website URL:
 
