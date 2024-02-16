@@ -71,6 +71,8 @@ Introducing our exquisite Gold Elegance Collection – a blend of timeless craft
 Azure Storage Account:
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
 
+![storage account](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/7a46cf6b-8297-4e60-bb35-2b6d6e7b2073)
+
 
 
 # Azure Blob Storage:
