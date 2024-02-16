@@ -42,8 +42,6 @@ Manage Identity
 
 Azure AI Service
 
-Search Service
-
 # PROBLEM STATEMENT:
 "Authentic Gold Heaven: Connecting Local Gold Shops to You"
 
