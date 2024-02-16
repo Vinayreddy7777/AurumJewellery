@@ -3,11 +3,11 @@ Genuine Gold Service from offline gold service providers.
 "Unleash Your Potential: Explore Skills, Ignite Success".
 
 Project Details: 
-Project Demo URL: 
-Static Website URL:
 
-Youtube Video URL : 
-GIT HUB URL: 
+Youtube Video URL : https://youtu.be/utLToc-xRQQ?si=jRJLcFblWFGg6Wm1
+
+GIT HUB URL: https://github.com/Vinayreddy7777 
+ 
 # Industry: LIFESTYLE(Explore the Skills)
 # Team & Responsibilities:
 
