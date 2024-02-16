@@ -95,14 +95,16 @@ Azure Backup Service is a cloud-based solution provided by Microsoft Azure that 
 # Azure RBAC which is a role-based access service:
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
 
-
-
+![Screenshot 2024-02-16 214433](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/2df99dd0-92d9-4a31-bf1f-5da21c89a163)
 
 
 # AZURE AI SERVICES:
-Azure Bot Service:
+# Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
-Manage Identity:
+
+![Screenshot 2024-02-16 214658](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/eb1cba3b-fb25-4c40-9828-6d16c9e957e0)
+
+# Manage Identity:
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
 
 
