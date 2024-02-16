@@ -66,8 +66,8 @@ Introducing our exquisite Gold Elegance Collection – a blend of timeless craft
 
 # AZURE CORE AZURE SERVICE:
 
+![Screenshot 2024-02-16 195804](https://github.com/Vinayreddy7777/AurumJewellery/assets/159014999/b6682c9e-72f4-40dc-ad5d-495659e47dd9)
 
-![service jpg 1](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/737008cb-5ca5-40b7-b2da-db674328e86a)
 
 
 Azure Storage Account:
