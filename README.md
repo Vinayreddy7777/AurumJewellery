@@ -64,9 +64,12 @@ Aurum jewelry offers a premium experience tailored to meet your highest expectat
 
 Introducing our exquisite Gold Elegance Collection – a blend of timeless craftsmanship and contemporary design. Each piece is meticulously crafted to showcase the inherent beauty of gold, adorned with intricate details and a touch of modern flair. Elevate your style with this stunning collection that seamlessly combines tradition with sophistication.
 
-# AZURE CORE AZURE SERVICE!
+# AZURE CORE AZURE SERVICE:
 Azure Storage Account:
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
+
+![service](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/78472022-f5ff-4382-90ba-c97349410877)
+
 
 
 # Azure Blob Storage:
