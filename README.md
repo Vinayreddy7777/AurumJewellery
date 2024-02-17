@@ -104,6 +104,10 @@ Azure Bot Service is a cloud-based service provided by Microsoft Azure that enab
 
 ![Screenshot 2024-02-16 214658](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/eb1cba3b-fb25-4c40-9828-6d16c9e957e0)
 
+![Screenshot 2024-02-16 214811](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/c79de9a8-5700-4abe-aa58-8190e50cf4a2)
+
+![Screenshot 2024-02-16 224526](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/19658663-27ca-4798-8aa8-cbb8bd8cba73)
+
 # Manage Identity:
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
 
@@ -122,6 +126,9 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 # Search Service:
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
+
+![Screenshot 2024-02-17 095225](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/006da236-83c6-437f-8342-e1a14bc67038)
+
 
 
 # FINAL PROJECT STATEMENT
