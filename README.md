@@ -127,3 +127,27 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 # FINAL PROJECT STATEMENT
 Our final project aims to develop an online gold jewellery platform that bridges the gap between local gold shops and customers, ensuring authenticity and quality. By partnering with trusted gold artisans and shops in various regions, our platform will offer a curated selection of genuine gold jewellery, providing customers with a seamless and secure shopping experience. Through innovative features like real-time authentication and transparent sourcing, we aim to revolutionize the way people buy gold online, fostering trust and confidence in every purchase.
 
+![Screenshot 2024-02-17 143144](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/b71c4728-b0bc-4296-9b37-d48756cbd058)
+
+![Screenshot 2024-02-17 143200](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/64078a55-20c5-415c-ae52-64b098bc1d0f)
+
+![Screenshot 2024-02-17 143214](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/7f7a16f9-925c-4c36-bbfc-706ef6311bfa)
+
+![Screenshot 2024-02-17 143226](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/d145ed2e-3b6b-47d9-81e5-c43d6e8c7caf)
+
+![Screenshot (3)](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/b7bb63b9-a09f-488e-9708-39e7a2391a8d)
+
+![Screenshot (4)](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/18f7d4eb-43dc-4585-920a-b2e78c140fe8)
+
+![Screenshot (5)](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/ca995aae-556e-46c5-a1e4-ef42ae5ef962)
+
+![Screenshot (7)](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/f89ba55d-8fda-4ec6-887c-8d33c2026ae7)
+
+
+
+
+
+
+
+
+
