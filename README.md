@@ -9,7 +9,8 @@ Project Demo URL:https://aurumsa123.z13.web.core.windows.net/
 Demo Video URL : https://youtu.be/utLToc-xRQQ?si=jRJLcFblWFGg6Wm1
 
 GIT HUB URL    : https://github.com/Vinayreddy7777 
-# Industry: LIFESTYLE(Explore the Skills)
+# Industry: LIFESTYLE(Explore the Skills)  
+
 # Team & Responsibilities:
 
 1.Vinay Reddy Kallem:
@@ -66,13 +67,19 @@ Aurum jewelry offers a premium experience tailored to meet your highest expectat
 Introducing our exquisite Gold Elegance Collection – a blend of timeless craftsmanship and contemporary design. Each piece is meticulously crafted to showcase the inherent beauty of gold, adorned with intricate details and a touch of modern flair. Elevate your style with this stunning collection that seamlessly combines tradition with sophistication.
 
 # AZURE CORE AZURE SERVICE!
-Azure Storage Account:
+
+![service](https://github.com/Vinayreddy7777/AurumJewellery/assets/159014999/46c93709-236f-4dd5-a77c-bb0a10f53739)
+
+# Azure Storage Account:
 Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
+
+![service jpg 1](https://github.com/Vinayreddy7777/AurumJewellery/assets/159014999/7f793c5c-c281-4cc4-83c2-53c21270c40e)
 
 
 # Azure Blob Storage:
 Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, designed for storing and managing large amounts of unstructured data, such as documents, images, and videos. It provides scalable and secure storage, supporting different access tiers based on data usage patterns. Blob Storage is commonly used for backup, data archiving, and serving content to web applications.
 
+![Screenshot 2024-02-16 213502](https://github.com/Vinayreddy7777/AurumJewellery/assets/159014999/bc38c8d8-c7f6-4927-9678-3730076b583e)
 
 
 # Azure Backup Service:
