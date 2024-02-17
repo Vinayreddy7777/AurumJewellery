@@ -49,7 +49,7 @@ Azure AI Service
 # PROBLEM STATEMENT:
 "Authentic Gold Heaven: Connecting Local Gold Shops to You"
 
-The jewelry industry, particularly local gold shops, faces a challenge in adapting to the digital era. While there is a rich diversity of offerings in local stores, accessibility remains limited for customers who prefer the convenience of online shopping. Trust issues, quality assurance, and the lack of a seamless bridge between local and online services contribute to this gap.
+The jewelry industry, particularly local gold shops, faces a challenge in adapting to the digital era. While there is a rich diversity of offerings in local stores, accessibility remains limited for customers who prefer the convenience of online shopping. Trust issues, quality assurance, and the lack of a seamless bridge between local and online services contribute to this gap. 
 
 This gold jewelry website aims to address these challenges by providing a platform that integrates local gold shops into an online environment. The primary issues to be tackled include:
 
