@@ -109,8 +109,6 @@ Azure Managed Identity is a service in Microsoft Azure that enhances the securit
 
 ![Screenshot 2024-02-16 214433](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/ca3dcf12-5953-4489-adc6-078f8aec1e82)
 
-
-
 # Azure AI Service
 Azure AI services encompass a suite of artificial intelligence (AI) offerings provided by Microsoft Azure, designed to empower developers and businesses to integrate AI capabilities into their applications and workflows.
 
