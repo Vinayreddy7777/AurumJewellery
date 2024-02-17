@@ -144,5 +144,6 @@ Our final project aims to develop an online gold jewellery platform that bridges
 
 ![s1](https://github.com/Vinayreddy7777/AurumJewellery/assets/159014999/0680a63e-710d-41e3-b6f3-3b3f6576e223)
 
+![s2](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/51c67477-a33c-4c3b-b1ac-79e158575045)
 
 
