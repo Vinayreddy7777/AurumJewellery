@@ -10,7 +10,7 @@ Demo Video URL: https://youtu.be/utLToc-xRQQ?si=jRJLcFblWFGg6Wm1
 
 GIT HUB URL: https://github.com/Vinayreddy7777  
 
-# Industry: LIFESTYLE(Explore the Skills)  
+# Industry: LIFESTYLE(Explore the Skills)
 
 # Team & Responsibilities:
 
