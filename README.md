@@ -104,12 +104,11 @@ Azure Bot Service is a cloud-based service provided by Microsoft Azure that enab
 
 ![Screenshot 2024-02-16 214658](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/eb1cba3b-fb25-4c40-9828-6d16c9e957e0)
 
-![Screenshot 2024-02-16 224526](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/19658663-27ca-4798-8aa8-cbb8bd8cba73)
-
 ![Screenshot 2024-02-16 214811](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/c79de9a8-5700-4abe-aa58-8190e50cf4a2)
 
 ![Screenshot 2024-02-17 095225](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/16998995-985a-4ea3-9581-35d672fdb07b)
 
+![Screenshot 2024-02-16 224526](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/19658663-27ca-4798-8aa8-cbb8bd8cba73)
 
 # Manage Identity:
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
