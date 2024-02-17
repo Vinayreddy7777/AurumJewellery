@@ -1,13 +1,12 @@
 # AurumJewellery
 Genuine Gold Service from offline gold service providers.
 "Unleash Your Potential: Explore Skills, Ignite Success".
+Project details:
+Project Demo URL:https://aurumsa123.z13.web.core.windows.net/
 
-Project Details:
-Project Demo URL:
-Static Website URL:
+Video URL : https://youtu.be/utLToc-xRQQ?si=jRJLcFblWFGg6Wm1
 
-Youtube Video URL : 
-GIT HUB URL: 
+GIT HUB URL: https://github.com/Vinayreddy7777 
 # Industry: LIFESTYLE(Explore the Skills)
 # Team & Responsibilities:
 
@@ -41,8 +40,6 @@ Azure Bot Service
 Manage Identity
 
 Azure AI Service
-
-Search Service
 
 # PROBLEM STATEMENT:
 "Authentic Gold Heaven: Connecting Local Gold Shops to You"
@@ -89,9 +86,11 @@ Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azu
 
 
 # AZURE AI SERVICES:
-Azure Bot Service:
+# Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype, and more.
-Manage Identity:
+
+
+# Manage Identity:
 Azure Managed Identity is a service in Microsoft Azure that enhances the security and ease of access to cloud resources by providing an identity management solution for applications and services.
 
 
