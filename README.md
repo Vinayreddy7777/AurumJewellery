@@ -57,7 +57,7 @@ This gold jewelry website aims to address these challenges by providing a platfo
 2. *User Trust and Quality Assurance:* Overcoming skepticism regarding online jewelry purchases by implementing robust measures to guarantee the authenticity and quality of products.
 3. *User Experience:* Creating an intuitive and user-friendly interface to enhance the overall experience for customers, making it easy for them to explore and purchase jewelry items.
 4. *Secure Transactions:* Implementing strong security measures to safeguard online transactions and protect sensitive user information.
-5. *Logistics and Delivery:* Developing an efficient logistics system to ensure the timely and reliable delivery of purchased products.
+5. *Logistics and Delivery:* Developing an efficient logistics system to ensure the timely and reliable delivery of purchased products.  
 
 This project seeks to revolutionize the way customers engage with local gold shops by providing a reliable, secure, and convenient online platform for exploring and acquiring exquisite gold jewelry.
 
