@@ -1,13 +1,14 @@
 # AurumJewellery
 Genuine Gold Service from offline gold service providers.
 "Unleash Your Potential: Explore Skills, Ignite Success".
-Project details: 
+
+# Project details: 
 
 Project Demo URL:https://aurumsa123.z13.web.core.windows.net/
 
 Demo Video URL : https://youtu.be/utLToc-xRQQ?si=jRJLcFblWFGg6Wm1
 
-GIT HUB URL: https://github.com/Vinayreddy7777 
+GIT HUB URL    : https://github.com/Vinayreddy7777 
 # Industry: LIFESTYLE(Explore the Skills)
 # Team & Responsibilities:
 
