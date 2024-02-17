@@ -118,15 +118,10 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 ![Screenshot 2024-02-16 215418](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/75084608-5a20-4727-aef1-6254e7fda108)
 
-![Screenshot 2024-02-16 212532](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/de431def-0cd4-4728-ac65-407274f3c78c)
-
-
-
-
-
-
 # Search Service:
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
+
+![Screenshot 2024-02-17 095225](https://github.com/Vinayreddy7777/AurumJewellery/assets/158995570/38c024c8-9085-498d-9359-63b92d76bc27)
 
 
 # FINAL PROJECT STATEMENT
