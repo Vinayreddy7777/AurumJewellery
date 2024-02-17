@@ -136,3 +136,11 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 # FINAL PROJECT STATEMENT
 Our final project aims to develop an online gold jewellery platform that bridges the gap between local gold shops and customers, ensuring authenticity and quality. By partnering with trusted gold artisans and shops in various regions, our platform will offer a curated selection of genuine gold jewellery, providing customers with a seamless and secure shopping experience. Through innovative features like real-time authentication and transparent sourcing, we aim to revolutionize the way people buy gold online, fostering trust and confidence in every purchase.
 
+![Screenshot 2024-02-16 224526](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/2c63657a-50ba-455c-a7c8-05de50cc0eae)
+
+![Screenshot 2024-02-17 110740](https://github.com/Vinayreddy7777/AurumJewellery/assets/158259894/632f3298-297e-45aa-b260-3ce388d8fd2e)
+
+
+
+
+
